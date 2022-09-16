@@ -8,7 +8,7 @@ Perintah membuka folder dengan ```cd```
 cd nama_folder
 ```
 
-perintah membuat folder baru dengan ```cd```
+perintah membuat folder baru dengan ```mkdir```
 
 ```
 mkdir nama_folder
